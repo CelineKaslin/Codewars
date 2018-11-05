@@ -5,5 +5,5 @@
 # ** should return "aaaaa"
 
 def repeater(string, n)
-  string*n
+  string * n
 end
