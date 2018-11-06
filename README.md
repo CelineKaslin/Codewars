@@ -4,7 +4,7 @@ My solutions for my completed katas on codewars website.
 
 Ruby language
 
-## Access to them ##
+## Online access ##
 
 Register on https://www.codewars.com/
 
