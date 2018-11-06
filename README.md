@@ -1,4 +1,9 @@
 # codewars #
 
-I am pushing all the kata that I did on codewars to show my work and progress
+My solution for my completed katas on codewars website.
+Ruby language
 
+## Access to them ##
+
+Register on https://www.codewars.com/
+search then by name, or rank
