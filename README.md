@@ -1,9 +1,11 @@
 # codewars #
 
-My solution for my completed katas on codewars website.
+My solutions for my completed katas on codewars website.
+
 Ruby language
 
-## Access to them ##
+## Online access ##
 
 Register on https://www.codewars.com/
-search then by name, or rank
+
+Search them by name, or rank
