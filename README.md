@@ -28,7 +28,7 @@ Once inside, you can see all the *.rb* files where the code of each challenge ar
 $ ls
 ```
 
-5. You can open the *.rb* file that you wanted to read and change the code in your text editor or using `vim` :
+4. You can open the *.rb* file that you wanted to read and change the code in your text editor or using `vim` :
 
 ```shell
 $ vim wanted_exercise_file.rb
