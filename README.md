@@ -38,6 +38,19 @@ Or you can just read the contains of it from the command line with `cat` :
 ```shell
 $ cat wanted_exercise_file.rb
 ```
+5. Check that the challenges are passing the test by going back to the *Codewars* directory and running the *spec*.<br/>
+You can check all the challenges at one time :
+
+```shell
+$ cd Codewars
+$ rspec
+```
+You can check only one challenge at a time :
+
+```shell
+$ cd Codewars
+$ rspec spec/file_name_spec.rb
+```
 
 ## Online access ##
 
