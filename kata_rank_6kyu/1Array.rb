@@ -9,7 +9,7 @@ def up_array(arr)
 
 	return nil if arr.empty? == true
 	arr.each do |number|
-		return nil if number < 0 == true
+		return nil if number < 0 == true || number > 9 == true
 	end
 	num = arr.join.to_i + 1
 	num.to_s.split(//).map(&:to_i)
