@@ -6,6 +6,9 @@ describe "should return +1 to the value represented by the given array" do
 	it "return nil if the array is empty" do
 		expect(up_array([])).to eq nil
 	end
+	it "return nil if the array contain a non single digit integer" do
+		expect(up_array([1, 2, 12, 3])).to eq nil
+	end
 	it "return nil if the last number is a non positive number" do
 		expect(up_array([2, -5])).to eq nil
 	end
